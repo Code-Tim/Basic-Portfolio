@@ -15,6 +15,11 @@ header {
   height: 91px; 
     
 }
+
+hr {
+  margin-bottom: 30px;
+  opacity: .8;
+}
 .toptext {
 position: relative;
 top: 20px;
