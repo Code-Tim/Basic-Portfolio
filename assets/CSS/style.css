@@ -64,9 +64,16 @@ left: 20px;
     text-align: left;
     width: 960px;
     margin-left: 500px;
-    
-    
+    padding: 20px;
   }
+
+button {
+  background-color: #4aaaa5;
+  color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
 
 .toplinks {
     background-color: #ffffff;
@@ -81,6 +88,7 @@ left: 20px;
     top: 40px;
     left: 1255px;
     width: 200px;
+    text-decoration: none;
 }
 
 .link {
@@ -170,6 +178,12 @@ background-color: #4aaaa5;
 text-align: center;
 }
 
+input, label, textarea {
+  display: block;
+  width: 100%;
+  margin-top: 2px;
+
+}
   footer {
     background-color: #666666;
     font-family: Arial, Helvetica, sans-serif;
